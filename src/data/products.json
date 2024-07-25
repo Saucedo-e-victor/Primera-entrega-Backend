@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Black Lotus",
+        "description": "A powerful and iconic card from the early sets of Magic: The Gathering.",
+        "price": 50000,
+        "img": "",
+        "code": "BL-001",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "title": "Mox Pearl",
+        "description": "A rare artifact card that can provide an extra mana each turn.",
+        "price": 15000,
+        "img": "",
+        "code": "MP-002",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Ancestral Recall",
+        "description": "Allows you to draw three cards for just one blue mana.",
+        "price": 20000,
+        "img": "",
+        "code": "AR-003",
+        "stock": 2
+    }
+]
